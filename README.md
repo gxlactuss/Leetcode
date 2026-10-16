@@ -7,3 +7,5 @@ All my leetcode problem solutions
 | 414   | 133  | 230    | 51   |
 
 LeetCode profile: [Gxlactus](https://leetcode.com/u/gxlactus/)
+
+I solve most problems in an Xcode playground. It has a pretty good debugger that lets me easily spot where my solution went wrong, and it's also good practice for quickly debugging real projects.
