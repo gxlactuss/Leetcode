@@ -7,8 +7,9 @@ class Solution {
         }
         for (i, w) in servers.enumerated() { free.push((w, i)) }
         var result = [Int]()
+        var time = 0
         for (j, task) in tasks.enumerated() {
-            var time = j
+            time = max(time, j)
             if free.isEmpty { time = max(time, busy.top!.time) }
             while let server = busy.top, server.time <= time {
                 busy.pop()
