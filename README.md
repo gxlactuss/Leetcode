@@ -4,7 +4,7 @@ All my leetcode problem solutions
 
 | Total | Easy | Medium | Hard |
 |-------|------|--------|------|
-| 432   | 136  | 243    | 53   |
+| 433   | 136  | 243    | 54   |
 
 LeetCode profile: [Gxlactus](https://leetcode.com/u/gxlactus/)
 
